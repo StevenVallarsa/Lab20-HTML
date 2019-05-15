@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(255,72,196);
+}
+
+body {
+    background-color: rgba(43,209,252,.5);
+}
+
+h4 {
+    background-color: rgb(192,77,249);
+    text-align: center;
+    color: white;
+    letter-spacing: 3px;
+}
+
+a {
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a:hover {
+    color: rgba(0,0,0,.25);
+}
